@@ -15,6 +15,6 @@ This repository contains evidence of hands-on cybersecurity labs I’ve complete
 - 🧾 Google Cybersecurity Certificate (Completed)
 
 ## Proof of Work:
-📁Screenshot Branch – Qwiklabs badges and lab completions  
+📁Screenshot and coursera pdf– Qwiklabs badges and lab completions  
 
 
